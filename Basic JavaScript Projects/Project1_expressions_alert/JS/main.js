@@ -19,7 +19,7 @@ document.write(Y+Z); //concatenated both variables
 var Y = Y.fontcolor("blue"); //used font to give variable a color
 document.write(Y) //called Y by using this method
 
-//TAKS-4 Write a Expression 
+//TAKS-4 Write a Expression   
 
 var c = 10; //assigned c variable to number 10
 var d = 40; //assigned d variable to number 40
